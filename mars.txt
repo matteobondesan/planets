@@ -5,4 +5,4 @@ control+o: save, yes
 control+x: quit
 
 The two moons blah blah blah
-
+But the Mummy will appreciate the lack of humidity
