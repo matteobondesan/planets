@@ -1,0 +1,5 @@
+bella bella 28 la tu ma
+
+control+o: save, yes
+control+x: quit
+
